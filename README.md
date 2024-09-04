@@ -1,4 +1,5 @@
-Customer-Lifetime-Value-Prediction
+**Customer-Lifetime-Value-Prediction**
+
 🌟 Task:
 
 The objective of this project was to predict the Customer Lifetime Value (CLV) using historical transaction data. This analysis aimed to help businesses understand the long-term value of their customers, optimize marketing strategies, and improve customer retention efforts.
